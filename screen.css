@@ -18,11 +18,11 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline; }
 
-href body {
+ body {
   line-height: 1; }
 
 ol, ul {
-  list-style: none; }
+  list-style: border; }
 
 table {
   border-collapse: collapse;
@@ -47,7 +47,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   font-family: sans-serif;
-  color: #2a2a2a; }
+  color: #2b2a2a; }
 
 a {
   color: #0388a6; }
